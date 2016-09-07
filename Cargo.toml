@@ -1,0 +1,12 @@
+[package]
+name = "rlyehian"
+version = "0.1.0"
+authors = ["Mark Sta Ana <booyaabooyaabooyaa@gmail.com>"]
+description = "A R'leyhian to English translation library"
+repository = "https://github.com/booyaa/rlyehian"
+documentation = "https://booyaa.github.io/rlyehian/rlyehian/index.html"
+readme = "README.md"
+keywords = ["rlyehian","translation","Cthulhui"]
+license = "Apache-2.0"
+
+[dependencies]
